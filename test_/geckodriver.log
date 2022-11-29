@@ -1,0 +1,111 @@
+1669371442500	geckodriver	INFO	Listening on 127.0.0.1:62252
+1669371602162	geckodriver	INFO	Listening on 127.0.0.1:62607
+1669372760720	geckodriver	INFO	Listening on 127.0.0.1:63244
+1669372988263	geckodriver	INFO	Listening on 127.0.0.1:63604
+1669375906607	geckodriver	INFO	Listening on 127.0.0.1:64718
+1669375985628	geckodriver	INFO	Listening on 127.0.0.1:64895
+1669556696357	geckodriver	INFO	Listening on 127.0.0.1:59180
+1669556953244	geckodriver	INFO	Listening on 127.0.0.1:59327
+1669698467972	geckodriver	INFO	Listening on 127.0.0.1:52767
+1669698471001	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SOORYA~1\\AppData\\Local\\Temp\\rust_mozprofileNXi9BA"
+1669698473938	Marionette	INFO	Marionette enabled
+1669698473966	Marionette	INFO	Listening on port 52780
+Read port: 52780
+1669698477033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SOORYA~1\\AppData\\Local\\Temp\\rust_mozprofileNXi9BA\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 1289 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1669702033489	Marionette	INFO	Stopped listening on port 52780
+1669706463038	geckodriver	INFO	Listening on 127.0.0.1:60517
+1669706466056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SOORYA~1\\AppData\\Local\\Temp\\rust_mozprofileLyOp1f"
+1669706466904	Marionette	INFO	Marionette enabled
+1669706466918	Marionette	INFO	Listening on port 60529
+Read port: 60529
+1669706467205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SOORYA~1\\AppData\\Local\\Temp\\rust_mozprofileLyOp1f\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 6045 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1669711468924	Marionette	INFO	Stopped listening on port 60529
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SOORYA~1\\AppData\\Local\\Temp\\rust_mozprofile9ayKGC"
+1669706662421	Marionette	INFO	Marionette enabled
+1669706662433	Marionette	INFO	Listening on port 60754
+Read port: 60754
+1669706663136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SOORYA~1\\AppData\\Local\\Temp\\rust_mozprofile9ayKGC\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 7027 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 20540, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:;'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:520:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 676, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:;'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1669711468082	Marionette	INFO	Stopped listening on port 60754
+mon/ipc_channel_win.cc:746
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 6195 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 7892, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1669711466667	Marionette	INFO	Stopped listening on port 61940
+9711044736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SOORYA~1\\AppData\\Local\\Temp\\rust_mozprofiledGNTH6"
+1669711046887	Marionette	INFO	Marionette enabled
+1669711047193	Marionette	INFO	Listening on port 50404
+Read port: 50404
+Read port: 50404
+1669711049174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SOORYA~1\\AppData\\Local\\Temp\\rust_mozprofiledGNTH6\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 3707 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669711446296	Marionette	INFO	Stopped listening on port 50404
+[Parent 25596, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 25596, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 25596, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 25596, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 25596, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 25596, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 25596, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
